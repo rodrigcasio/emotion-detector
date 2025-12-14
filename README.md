@@ -1,1 +1,8 @@
-# Emotion Detector application with Watson NLP Library
+# Deploying web server application using Flsk with *Emotion Detector* with Watson NLP API.
+
+This AI-Based Emotion Detection web application that make use of embeddable Watson NLP Library.
+And can be deployed on the web. 
+
+*Unfortunately, the Watson NLP Library is only accessible within the Theia Lab. "The API used here is hosted on the Skills Network platform"
+
+@rodrigcasio
